@@ -2,7 +2,7 @@
 /**
  * Includes dates shortocdes
  * Plugin: shortcodes for the current year, month and day
- * Since: 0.1
+ * Since: 0.2
  * Author: Mebratu Kumera
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
