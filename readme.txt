@@ -28,6 +28,13 @@ Use the shortcode **[Year]** in any post, page or widget to display the current 
 **[day]** - inserts the current day without leading zeros e.g. **6**
 **[day_textual_short]** - inserts the current day with three letters e.g. **Mon**
 **[day_textual]** - inserts the current day as a text e.g. **Monday**
+**[time]** - inserts the current time e.g. **16:58:00**
+**[show_user_ip] - insert the current user ip e.g. *179.23.45.*
+**[c] - Retrive © symbol **
+**[cc] - Retrive Copyright **
+**[t] - Retrieve ® symbol **
+**[tm] - Retrieve ™ symbol **
+**[sm] - Retrieve ℠ symbol **
 
 == Changelog ==
 
