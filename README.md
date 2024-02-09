@@ -1,11 +1,11 @@
 # Current-Year-Shortcode
-Contributors: mebratukumera
-Tags: shortcode, year, current, month, day, date, time
-Requires at least: 4.6
-Tested up to: 6.4.2
-Stable tag: 0.1
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+### Contributors: mebratukumera
+### Tags: shortcode, year, current, month, day, date, time
+### Requires at least: 4.6
+### Tested up to: 6.4.2
+### Stable tag: 0.1
+### License: GPLv2 or later
+### License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Insert the current year, month and day with a shortcode in any page, post or widget of your WordPress site.
 
