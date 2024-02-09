@@ -4,7 +4,7 @@
  * Plugin Name:       Current Year Date
  * Plugin URI:        https://hullemgebeya.com/
  * Description:       Add shortcodes for the current year, month and day
- * Version:           0.1
+ * Version:           0.2
  * Author:            Mebratu Kumera
  * Author URI:        https://www.linkedin.com/in/mebratu-kumera-638149181/
  * License:           GPL v2 or later
