@@ -17,24 +17,24 @@ Use the shortcode **[Year]** in any post, page or widget to display the current 
 
 ## How it works
 
-**[current_date]** - inserts the current dynamic date values e.g. **2024-02-09**
-**[Year]** - inserts the current year with four digits e.g. **2023**
-**[year]** - inserts the current year with two digits e.g. **23**
-**[Month]** - inserts the current month with two digits e.g. **01**
-**[month]** - inserts the current month without leading zeros e.g. **1**
-**[month_textual]** - inserts the current month as a text e.g. **January**
-**[month_textual_short]** - inserts the current month with three letters e.g. **Jan**
-**[Day]** - inserts the current day with two digits e.g. **06**
-**[day]** - inserts the current day without leading zeros e.g. **6**
-**[day_textual_short]** - inserts the current day with three letters e.g. **Mon**
-**[day_textual]** - inserts the current day as a text e.g. **Monday**
-**[time]** - inserts the current time e.g. **16:58:00**
-**[show_user_ip]** - insert the current user ip e.g. 179.23.45.**
-**[c]** - Retrive © symbol **
-**[cc]** - Retrive Copyright **
-**[t]** - Retrieve ® symbol **
-**[tm]** - Retrieve ™ symbol **
-**[sm]** - Retrieve ℠ symbol **
+### **[current_date]** - inserts the current dynamic date values e.g. **2024-02-09**
+### **[Year]** - inserts the current year with four digits e.g. **2023**
+### **[year]** - inserts the current year with two digits e.g. **23**
+### **[Month]** - inserts the current month with two digits e.g. **01**
+### **[month]** - inserts the current month without leading zeros e.g. **1**
+### **[month_textual]** - inserts the current month as a text e.g. **January**
+### **[month_textual_short]** - inserts the current month with three letters e.g. **Jan**
+### **[Day]** - inserts the current day with two digits e.g. **06**
+### **[day]** - inserts the current day without leading zeros e.g. **6**
+### **[day_textual_short]** - inserts the current day with three letters e.g. **Mon**
+### **[day_textual]** - inserts the current day as a text e.g. **Monday**
+### **[time]** - inserts the current time e.g. **16:58:00**
+### **[show_user_ip]** - insert the current user ip e.g. 179.23.45.**
+### **[c]** - Retrive © symbol **
+### **[cc]** - Retrive Copyright **
+### **[t]** - Retrieve ® symbol **
+### **[tm]** - Retrieve ™ symbol **
+### **[sm]** - Retrieve ℠ symbol **
 
 == Changelog ==
 
