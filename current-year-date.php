@@ -31,8 +31,9 @@ You should have received a copy of the GNU General
 
 // if accessed directly, exit
 if (!defined('ABSPATH')) exit;
+define('DIR_PATH', plugin_dir_path(__FILE__) . 'shortcodes');
 
-require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/ip.php' );
-require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/current_dates.php' );
-require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/symbols.php' );
-require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/copyright.php' );
+require_once(DIR_PATH . '/ip.php');
+require_once(DIR_PATH . '/current-dates.php');
+require_once(DIR_PATH . '/symbols.php');
+require_once(DIR_PATH . '/copyright.php');
